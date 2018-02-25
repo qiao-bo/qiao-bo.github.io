@@ -1,4 +1,4 @@
-![Image](glass.jpg)
+![Image](glass.png)
 
 
 Check the Hipacc project at
