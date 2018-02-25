@@ -1,4 +1,2 @@
 theme: jekyll-theme-slate
-title: Welcome to Bo's homepage!
-desciption: Feel free to bookmark this page to keep an eye on my project updates...
-exclude: ["README.md", "Rakefile", "License.md"]
+
