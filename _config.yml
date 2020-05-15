@@ -1,3 +1,23 @@
-theme: jekyll-theme-slate
-title: Bo's homepage
-description: welcome and sorry, there is nothing here...
+# Site wide configuration
+title: Someone's homepage
+description: ...
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Bo Qiao 
+  avatar: 
+  bio: "This is a sample Jekyll academic website."
+  #email: laderast@ohsu.edu
+  # Do not include the @ symbol in your Twitter username
+  #twitter: laderast
+  #linkedin: #username
+  #github: laderast
+  #orcid: # ID Number (ex. 0000-0000-0000-0000)
+  #researchgate: #username
+  #mendeley: #username
+  #google:
+  #  plus: #username
+  #  analytics:
+  #  verify:
+  #  scholar: #id
+
